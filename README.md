@@ -6,3 +6,5 @@ This is the pinteresting sample applicaion for
 by [Dustin Daniels] (https://github.com/dustind1241/pinteresting)
 
 Adding something new in line 7
+
+Added something else in line 10
